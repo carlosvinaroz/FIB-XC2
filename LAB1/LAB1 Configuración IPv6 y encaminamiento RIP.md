@@ -2,10 +2,6 @@
 
 ## Parte 1
 
-### Estructura
-
-![image-20201026001238703](C:\Users\Carlos\AppData\Roaming\Typora\typora-user-images\image-20201026001238703.png)
-
 ### Passos a seguir
 
 Recuerda siempre luego de configurar una interface hacer 2 exits y finalmente guardar la configuración con wr:
@@ -321,8 +317,6 @@ Como hemos visto en el apartado **7**, cada Router tiene un enlace Rip con el PC
 
 
 ## Parte 2
-
-### Estructura
 
 ### Passos
 
