@@ -1,13 +1,5 @@
 # LAB3: Multiprotocol Label Switching (MPLS)
 
-## 
-
-![image-20201126062656809](C:\Users\Carlos\AppData\Roaming\Typora\typora-user-images\image-20201126062656809.png)
-
-![image-20201126063249819](C:\Users\Carlos\AppData\Roaming\Typora\typora-user-images\image-20201126063249819.png)
-
-![image-20201126132232115](C:\Users\Carlos\AppData\Roaming\Typora\typora-user-images\image-20201126132232115.png)
-
 ## Parte 1
 
 ##### 1 . Configurar las direcciones de loopback en R1-R3 como 1.#HA.1.X/32 donde #HA es el número del PC que hace de HA y X es el número del router RX.
