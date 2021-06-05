@@ -1,9 +1,5 @@
 # LAB 2: Intra-Domain Routing: OSPF
 
-## Estructura
-
-![image-20201031170505371](C:\Users\Carlos\AppData\Roaming\Typora\typora-user-images\image-20201031170505371.png)
-
 ## Passos
 
 ##### 1. Configurar todas las interfaces de los routers y añadir una interfaz de loopback en cada router.  asignaremos una dirección 10.0.<PC#>.1/30 para el loopback de cada router. Escoger como número C#, el número del ordenador, es decir, si tiene 115, escoger la red 10.0.115.1/30 para la loopback de ese router.
