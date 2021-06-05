@@ -1,7 +1,5 @@
 # Lab5: BGPv4 Manipulación de atributos
 
-![Captura de pantalla 2020-12-05 124214](G:\Mi unidad\Q1 20-21\XC2\LAB5\Captura de pantalla 2020-12-05 124214.png)
-
 ## 1. Configurar las direcciones IP, encaminamiento interno (OSPF) y externo (BGP) de la red que aparece en la siguiente figura de forma que funcione correctamente.
 
 ````shell
